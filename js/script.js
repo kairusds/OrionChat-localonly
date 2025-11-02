@@ -144,8 +144,8 @@ let PLATFORM_DATA = {
     ollama: {
         models: [],
         name: "Ollama",
-        get_models_endpoint: "http://localhost:11434/v1/models",
-        endpoint: "http://localhost:11434/v1/chat/completions"
+        get_models_endpoint: "http://localhost:3300/v1/models",
+        endpoint: "http://localhost:3300/v1/chat/completions"
     }
 }
 

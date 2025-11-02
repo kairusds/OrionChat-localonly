@@ -1,6 +1,11 @@
 # OrionChat
 OrionChat is a free and open-source web-based chat interface that simplifies interactions with various generative AI providers.
 
+## localhost-only Ollama with Bun
+```
+bun server.js
+```
+
 It provides a unified platform for chatting and exploring multiple large language models (LLMs), including:
 
 - 🌐 OpenAI (GPTs and beyond)
